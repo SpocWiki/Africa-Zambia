@@ -113,8 +113,8 @@ id: Zambia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Zambia//
-markerFolder: ./Zambia//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Zambia] 
