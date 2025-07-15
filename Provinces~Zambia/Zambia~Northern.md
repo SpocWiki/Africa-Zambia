@@ -40,11 +40,18 @@ markerFolder: ./Zambia~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Zambia~Northern|Zambia~Northern]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Zambia~Northern.public|Zambia~Northern.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~Northern.internal|Zambia~Northern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~Northern.protect|Zambia~Northern.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~Northern.private|Zambia~Northern.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~Northern.personal|Zambia~Northern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~Northern.secret|Zambia~Northern.secret]] 
+
+### #is_/same_as :: [Zambia~Northern](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.md) 
+
+### #is_/same_as :: [Zambia~Northern.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.public.md) 
+
+### #is_/same_as :: [Zambia~Northern.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.internal.md) 
+
+### #is_/same_as :: [Zambia~Northern.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.protect.md) 
+
+### #is_/same_as :: [Zambia~Northern.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.private.md) 
+
+### #is_/same_as :: [Zambia~Northern.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.personal.md) 
+
+### #is_/same_as :: [Zambia~Northern.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.secret.md)
 

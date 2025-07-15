@@ -40,11 +40,18 @@ markerFolder: ./Luapula/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Luapula|Luapula]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Luapula.public|Luapula.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Luapula.internal|Luapula.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Luapula.protect|Luapula.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Luapula.private|Luapula.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Luapula.personal|Luapula.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Luapula.secret|Luapula.secret]] 
+
+### #is_/same_as :: [Luapula](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Luapula.md) 
+
+### #is_/same_as :: [Luapula.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Luapula.public.md) 
+
+### #is_/same_as :: [Luapula.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Luapula.internal.md) 
+
+### #is_/same_as :: [Luapula.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Luapula.protect.md) 
+
+### #is_/same_as :: [Luapula.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Luapula.private.md) 
+
+### #is_/same_as :: [Luapula.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Luapula.personal.md) 
+
+### #is_/same_as :: [Luapula.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Luapula.secret.md)
 

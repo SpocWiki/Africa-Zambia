@@ -40,11 +40,18 @@ markerFolder: ./Zambia~Eastern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern|Zambia~Eastern]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.public|Zambia~Eastern.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.internal|Zambia~Eastern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.protect|Zambia~Eastern.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.private|Zambia~Eastern.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.personal|Zambia~Eastern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~Eastern.secret|Zambia~Eastern.secret]] 
+
+### #is_/same_as :: [Zambia~Eastern](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Eastern.md) 
+
+### #is_/same_as :: [Zambia~Eastern.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Eastern.public.md) 
+
+### #is_/same_as :: [Zambia~Eastern.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Eastern.internal.md) 
+
+### #is_/same_as :: [Zambia~Eastern.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Eastern.protect.md) 
+
+### #is_/same_as :: [Zambia~Eastern.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Eastern.private.md) 
+
+### #is_/same_as :: [Zambia~Eastern.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Eastern.personal.md) 
+
+### #is_/same_as :: [Zambia~Eastern.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Eastern.secret.md)
 

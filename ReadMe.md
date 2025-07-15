@@ -136,10 +136,4 @@ Capital :: [[Lusaka]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Zambia|Zambia]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Zambia.internal|Zambia.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Zambia.protect|Zambia.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Zambia.private|Zambia.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Zambia.personal|Zambia.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Zambia.secret|Zambia.secret]] 
+

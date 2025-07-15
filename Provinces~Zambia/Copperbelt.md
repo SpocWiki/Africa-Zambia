@@ -40,11 +40,18 @@ markerFolder: ./Copperbelt/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Copperbelt|Copperbelt]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Copperbelt.public|Copperbelt.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Copperbelt.internal|Copperbelt.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Copperbelt.protect|Copperbelt.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Copperbelt.private|Copperbelt.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Copperbelt.personal|Copperbelt.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Copperbelt.secret|Copperbelt.secret]] 
+
+### #is_/same_as :: [Copperbelt](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Copperbelt.md) 
+
+### #is_/same_as :: [Copperbelt.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Copperbelt.public.md) 
+
+### #is_/same_as :: [Copperbelt.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Copperbelt.internal.md) 
+
+### #is_/same_as :: [Copperbelt.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Copperbelt.protect.md) 
+
+### #is_/same_as :: [Copperbelt.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Copperbelt.private.md) 
+
+### #is_/same_as :: [Copperbelt.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Copperbelt.personal.md) 
+
+### #is_/same_as :: [Copperbelt.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Copperbelt.secret.md)
 

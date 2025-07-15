@@ -40,11 +40,18 @@ markerFolder: ./Lusaka/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Lusaka|Lusaka]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Lusaka.public|Lusaka.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Lusaka.internal|Lusaka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Lusaka.protect|Lusaka.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Lusaka.private|Lusaka.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Lusaka.personal|Lusaka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Lusaka.secret|Lusaka.secret]] 
+
+### #is_/same_as :: [Lusaka](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.md) 
+
+### #is_/same_as :: [Lusaka.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.public.md) 
+
+### #is_/same_as :: [Lusaka.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.internal.md) 
+
+### #is_/same_as :: [Lusaka.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.protect.md) 
+
+### #is_/same_as :: [Lusaka.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.private.md) 
+
+### #is_/same_as :: [Lusaka.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.personal.md) 
+
+### #is_/same_as :: [Lusaka.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Muchinga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Muchinga|Muchinga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Muchinga.public|Muchinga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Muchinga.internal|Muchinga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Muchinga.protect|Muchinga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Muchinga.private|Muchinga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Muchinga.personal|Muchinga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Muchinga.secret|Muchinga.secret]] 
+
+### #is_/same_as :: [Muchinga](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Muchinga.md) 
+
+### #is_/same_as :: [Muchinga.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Muchinga.public.md) 
+
+### #is_/same_as :: [Muchinga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Muchinga.internal.md) 
+
+### #is_/same_as :: [Muchinga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Muchinga.protect.md) 
+
+### #is_/same_as :: [Muchinga.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Muchinga.private.md) 
+
+### #is_/same_as :: [Muchinga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Muchinga.personal.md) 
+
+### #is_/same_as :: [Muchinga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Muchinga.secret.md)
 

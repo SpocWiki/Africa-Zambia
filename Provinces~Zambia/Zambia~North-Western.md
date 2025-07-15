@@ -40,11 +40,18 @@ markerFolder: ./Zambia~North-Western/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zambia/Counties/Zambia~North-Western|Zambia~North-Western]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zambia/Counties/Zambia~North-Western.public|Zambia~North-Western.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zambia/Counties/Zambia~North-Western.internal|Zambia~North-Western.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zambia/Counties/Zambia~North-Western.protect|Zambia~North-Western.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zambia/Counties/Zambia~North-Western.private|Zambia~North-Western.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zambia/Counties/Zambia~North-Western.personal|Zambia~North-Western.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zambia/Counties/Zambia~North-Western.secret|Zambia~North-Western.secret]] 
+
+### #is_/same_as :: [Zambia~North-Western](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.md) 
+
+### #is_/same_as :: [Zambia~North-Western.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.public.md) 
+
+### #is_/same_as :: [Zambia~North-Western.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.internal.md) 
+
+### #is_/same_as :: [Zambia~North-Western.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.protect.md) 
+
+### #is_/same_as :: [Zambia~North-Western.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.private.md) 
+
+### #is_/same_as :: [Zambia~North-Western.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.personal.md) 
+
+### #is_/same_as :: [Zambia~North-Western.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.secret.md)
 
