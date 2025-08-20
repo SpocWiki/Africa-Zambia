@@ -1,41 +1,42 @@
 ---
 location:
-- -15.4167
-- 28.2833
+  - -15.4167
+  - 28.2833
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27063
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Zambia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Zambia
-- Zambie
-- زامبيا
-- 赞比亚
-- Замбия
-- the Republic of Zambia
-- la República de Zambia
+  - Zambia
+  - Zambie
+  - زامبيا
+  - 赞比亚
+  - Замбия
+  - the Republic of Zambia
+  - la República de Zambia
 Languages:
-- en-ZM
-- bem
-- loz
-- lun
-- lue
-- ny
-- toi
+  - en-ZM
+  - bem
+  - loz
+  - lun
+  - lue
+  - ny
+  - toi
 ---
 
 
