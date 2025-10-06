@@ -129,7 +129,7 @@ markerFolder: .//
 [Area-Land::743390] 
 Continent :: [[Africa]]  
 [VehicleCode::Z] 
-Capital :: [[Lusaka]]  
+Capital :: [[Provinces~Zambia/Lusaka,District]]  
 [Alcohol-l::3.9] 
 [Language-Id::499] 
 [geo-lon::28.2833] 
