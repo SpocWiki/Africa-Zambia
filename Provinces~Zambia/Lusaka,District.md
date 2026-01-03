@@ -46,17 +46,17 @@ minZoom: 2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lusaka](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District|Lusaka,District]] 
 
-### #is_/same_as :: [Lusaka.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District.public|Lusaka,District.public]] 
 
-### #is_/same_as :: [Lusaka.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District.internal|Lusaka,District.internal]] 
 
-### #is_/same_as :: [Lusaka.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District.protect|Lusaka,District.protect]] 
 
-### #is_/same_as :: [Lusaka.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District.private|Lusaka,District.private]] 
 
-### #is_/same_as :: [Lusaka.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District.personal|Lusaka,District.personal]] 
 
-### #is_/same_as :: [Lusaka.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District.secret|Lusaka,District.secret]] 
 

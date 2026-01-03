@@ -40,17 +40,17 @@ markerFolder: ./Zambia~North-Western/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zambia~North-Western](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western|Zambia~North-Western]] 
 
-### #is_/same_as :: [Zambia~North-Western.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.public|Zambia~North-Western.public]] 
 
-### #is_/same_as :: [Zambia~North-Western.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.internal|Zambia~North-Western.internal]] 
 
-### #is_/same_as :: [Zambia~North-Western.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.protect|Zambia~North-Western.protect]] 
 
-### #is_/same_as :: [Zambia~North-Western.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.private|Zambia~North-Western.private]] 
 
-### #is_/same_as :: [Zambia~North-Western.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.personal|Zambia~North-Western.personal]] 
 
-### #is_/same_as :: [Zambia~North-Western.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~North-Western.secret|Zambia~North-Western.secret]] 
 

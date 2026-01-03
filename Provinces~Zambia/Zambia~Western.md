@@ -40,17 +40,17 @@ markerFolder: ./Zambia~Western/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zambia~Western](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western|Zambia~Western]] 
 
-### #is_/same_as :: [Zambia~Western.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.public|Zambia~Western.public]] 
 
-### #is_/same_as :: [Zambia~Western.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.internal|Zambia~Western.internal]] 
 
-### #is_/same_as :: [Zambia~Western.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.protect|Zambia~Western.protect]] 
 
-### #is_/same_as :: [Zambia~Western.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.private|Zambia~Western.private]] 
 
-### #is_/same_as :: [Zambia~Western.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.personal|Zambia~Western.personal]] 
 
-### #is_/same_as :: [Zambia~Western.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Western.secret|Zambia~Western.secret]] 
 

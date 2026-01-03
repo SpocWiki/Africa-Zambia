@@ -69,3 +69,20 @@ markerFile: [[Lake_Mweru]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Mweru) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Lake_Mweru|Lake_Mweru]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Zambia/Lake_Mweru.public|Lake_Mweru.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Lake_Mweru.internal|Lake_Mweru.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Lake_Mweru.protect|Lake_Mweru.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Zambia/Lake_Mweru.private|Lake_Mweru.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Lake_Mweru.personal|Lake_Mweru.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Lake_Mweru.secret|Lake_Mweru.secret]] 
+

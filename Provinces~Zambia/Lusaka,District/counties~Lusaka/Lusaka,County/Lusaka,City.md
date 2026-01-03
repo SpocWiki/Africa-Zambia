@@ -115,17 +115,17 @@ markerFile: [[Lusaka,City]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lusaka](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka/City/Lusaka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District/counties~Lusaka/Lusaka,County/Lusaka,City|Lusaka,City]] 
 
-### #is_/same_as :: [Lusaka.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka/City/Lusaka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District/counties~Lusaka/Lusaka,County/Lusaka,City.public|Lusaka,City.public]] 
 
-### #is_/same_as :: [Lusaka.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka/City/Lusaka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District/counties~Lusaka/Lusaka,County/Lusaka,City.internal|Lusaka,City.internal]] 
 
-### #is_/same_as :: [Lusaka.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka/City/Lusaka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District/counties~Lusaka/Lusaka,County/Lusaka,City.protect|Lusaka,City.protect]] 
 
-### #is_/same_as :: [Lusaka.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka/City/Lusaka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District/counties~Lusaka/Lusaka,County/Lusaka,City.private|Lusaka,City.private]] 
 
-### #is_/same_as :: [Lusaka.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka/City/Lusaka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District/counties~Lusaka/Lusaka,County/Lusaka,City.personal|Lusaka,City.personal]] 
 
-### #is_/same_as :: [Lusaka.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka/City/Lusaka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Lusaka,District/counties~Lusaka/Lusaka,County/Lusaka,City.secret|Lusaka,City.secret]] 
 

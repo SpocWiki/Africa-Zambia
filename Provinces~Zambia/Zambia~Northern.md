@@ -40,17 +40,17 @@ markerFolder: ./Zambia~Northern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zambia~Northern](/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern|Zambia~Northern]] 
 
-### #is_/same_as :: [Zambia~Northern.public](/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.public|Zambia~Northern.public]] 
 
-### #is_/same_as :: [Zambia~Northern.internal](/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.internal|Zambia~Northern.internal]] 
 
-### #is_/same_as :: [Zambia~Northern.protect](/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.protect|Zambia~Northern.protect]] 
 
-### #is_/same_as :: [Zambia~Northern.private](/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.private|Zambia~Northern.private]] 
 
-### #is_/same_as :: [Zambia~Northern.personal](/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.personal|Zambia~Northern.personal]] 
 
-### #is_/same_as :: [Zambia~Northern.secret](/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Zambia/Provinces~Zambia/Zambia~Northern.secret|Zambia~Northern.secret]] 
 
