@@ -14,28 +14,28 @@ tags:
 SpocWebEntityId: 35945
 isDeleted: false
 confidential: public
-different_from: "[[_Standards/WikiData/WD~Lusaka_Province,819998]]"
+different_from: "[[_Standards/WikiData/WD~Lusaka_Province,819998|WD~Lusaka_Province,819998]]"
 capital_of:
-  - "[[_Standards/WikiData/WD~Lusaka_Province,819998]]"
-  - "[[_Standards/WikiData/WD~Northern_Rhodesia,953903]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lusaka_Province,819998]]"
+  - "[[_Standards/WikiData/WD~Lusaka_Province,819998|WD~Lusaka_Province,819998]]"
+  - "[[_Standards/WikiData/WD~Northern_Rhodesia,953903|WD~Northern_Rhodesia,953903]]"
+  - "[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lusaka_Province,819998|WD~Lusaka_Province,819998]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~national_capital,108178728]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Lusaka,17110300]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-head_of_government: "[[_Standards/WikiData/WD~Chilando_Chitangala,112195612]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~national_capital,108178728|WD~national_capital,108178728]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Lusaka,17110300|WD~timeline_of_Lusaka,17110300]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+head_of_government: "[[_Standards/WikiData/WD~Chilando_Chitangala,112195612|WD~Chilando_Chitangala,112195612]]"
 coordinate_location: Point(28.283333333 -15.416666666)
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Białystok,761]]"
-  - "[[_Standards/WikiData/WD~Kigali,3859]]"
-  - "[[_Standards/WikiData/WD~Izhevsk,5426]]"
-  - "[[_Standards/WikiData/WD~Dushanbe,9365]]"
-  - "[[_Standards/WikiData/WD~Los_Angeles,65]]"
-country: "[[_Standards/WikiData/WD~Zambia,953]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_30,6749]]"
+  - "[[_Standards/WikiData/WD~Białystok,761|WD~Białystok,761]]"
+  - "[[_Standards/WikiData/WD~Kigali,3859|WD~Kigali,3859]]"
+  - "[[_Standards/WikiData/WD~Izhevsk,5426|WD~Izhevsk,5426]]"
+  - "[[_Standards/WikiData/WD~Dushanbe,9365|WD~Dushanbe,9365]]"
+  - "[[_Standards/WikiData/WD~Los_Angeles,65|WD~Los_Angeles,65]]"
+country: "[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_30,6749|WD~UTC+02_30,6749]]"
 area: 360
 elevation_above_sea_level: 1279
 local_dialing_code: "02"
