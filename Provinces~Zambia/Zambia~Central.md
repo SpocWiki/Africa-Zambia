@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Zambia~Central/
 markerFolder: ./Zambia~Central/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

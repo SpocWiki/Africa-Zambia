@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Zambia~Northern/
 markerFolder: ./Zambia~Northern/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
