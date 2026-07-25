@@ -501,7 +501,7 @@ dv_UNTERM_Chinese_Formal: 赞比亚共和国
 dv_UNTERM_French_Formal: la République de Zambie
 dv_UNTERM_Russian: Замбия
 dv_UNTERM_Russian_Formal: Республика Замбия
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -529,7 +529,7 @@ dv_ISO2: ZM
 dv_ISO3: ZMB
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Zambia,953|WD~Zambia,953]]'
+  - '[[../../../../../WikiData/WD~Zambia,953|WD~Zambia,953]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia|Zambia]]'
   - '[[/_public/Earth/Continent/Africa/Africa~Central/Zambia.public|Zambia.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~Central/Zambia.internal|Zambia.internal]]'
@@ -822,16 +822,16 @@ dv_has_:
 dv_has_name_de: Sambia
 dv_Area-Total: 752614
 dv_Area-Land: 743390
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: Z
 dv_Alcohol-l: 3.9
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 28.2833
 dv_has_place_latitude: -15.4167
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Zambia,953|WD~Zambia,953]]'
+- '[[../../../../../WikiData/WD~Zambia,953|WD~Zambia,953]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Zambia|Zambia]]'
 - '[[/_public/Earth/Continent/Africa/Africa~Central/Zambia.public|Zambia.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~Central/Zambia.internal|Zambia.internal]]'
@@ -918,7 +918,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Zambia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -937,7 +937,7 @@ markerFile: [[Zambia]]
 
 ```leaflet
 id: Zambia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -960,7 +960,7 @@ has_name_de = `=this.dv_has_name_de`
 
 ![[Coat_of_arms_of_Zambia.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Tunisia.mp3|Anthem-Tunisia.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Tunisia.mp3|Anthem-Tunisia.mp3]]
 
 ![[Flag_of_Zambia.svg|350]]
 
@@ -968,7 +968,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Zambia/Provinces~Zambia/Lusaka,District|Lusaka,District]]  
+Capital :: [[Provinces~Zambia/Lusaka,District|Lusaka,District]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
